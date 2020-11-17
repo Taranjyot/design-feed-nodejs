@@ -1,0 +1,23 @@
+{
+  "name": "amazon-prices-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Baranowicz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cron": "^1.8.2",
+    "fs-extra": "^9.0.1",
+    "fs-path": "0.0.25",
+    "image-downloader": "^4.0.1",
+    "nodemailer": "^6.4.2",
+    "puppeteer": "^2.1.1",
+    "readline": "^1.3.0",
+    "request": "^2.88.2"
+  }
+}
